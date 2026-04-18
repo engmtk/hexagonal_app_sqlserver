@@ -56,4 +56,5 @@ curl -X PUT http://127.0.0.1:5000/clientes/1 -H "Content-Type: application/json"
 
 DELETE:
 curl -X DELETE http://127.0.0.1:5000/clientes/1
-As informações no banco, antes de realizar o put
+
+
